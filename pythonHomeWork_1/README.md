@@ -17,4 +17,4 @@ from random import randint
 num = randint(LOWER_LIMIT, UPPER_LIMIT) 
 
 Реализация:
-[guessTheNumber](https://github.com/MikhailAkulov/Algorithms_home_works/blob/main/src/main/java/home_work_4/Main.java)
+[guessTheNumber](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_1/guessTheNumber.py)
