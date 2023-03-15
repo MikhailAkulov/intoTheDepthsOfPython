@@ -8,3 +8,20 @@ min_limit = 0
 max_limit = 100000
 while True:
     num = int(input("Введите число между", min_limit, "и", max_limit, ": "))
+    if min_limit < num <= max_limit:
+        message = "Введите число в указанных границах"
+        break
+
+flag = True
+if num > 1:
+    for i in range(2, num -1):
+        if num % i == 0:
+            flag = False
+            break
+
+if flag:
+    message = "Введенное число является простым"
+else:
+    message = "Введенное число является составным"
+
+print(message)
