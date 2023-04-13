@@ -14,3 +14,6 @@
 
 Урок 5. Интераторы и генераторы.
 [Домашняя работа № 5](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_5)
+
+Урок 6. Модули
+[Домашняя работа № 6](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_6)
