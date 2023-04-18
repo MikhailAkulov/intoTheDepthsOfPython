@@ -1,0 +1,1 @@
+__all__ = ['group_renaming_files', 'seminar_task_1', 'seminar_task_2', 'seminar_task_3', 'seminar_task_4']
