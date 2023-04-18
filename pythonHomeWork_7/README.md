@@ -12,7 +12,7 @@
 * принимать диапазон сохраняемого оригинального имени. Например для диапазона [3, 6] берутся буквы с 3 по 6 из исходного имени файла. К ним прибавляется желаемое конечное имя, если оно передано. Далее счётчик файлов и расширение.
 
 Реализация:
-[group_renaming_files](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_7/group_renaming_files.py)
+[group_renaming_files](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_7/working_with_files/group_renaming_files.py)
 
 3. Соберите из созданных на уроке и в рамках домашнего задания функций пакет для работы с файлами.
 
