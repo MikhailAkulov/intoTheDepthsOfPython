@@ -17,4 +17,4 @@
 3. Соберите из созданных на уроке и в рамках домашнего задания функций пакет для работы с файлами.
 
 Реализация:
-[ferz_task](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_6/ferz_task.py)
+[test_module](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_7/test_module.py)

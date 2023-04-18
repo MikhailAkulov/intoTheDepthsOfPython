@@ -17,3 +17,6 @@
 
 Урок 6. Модули
 [Домашняя работа № 6](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_6)
+
+Урок 7. Файлы и файловая система
+[Домашняя работа № 7](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_7)
