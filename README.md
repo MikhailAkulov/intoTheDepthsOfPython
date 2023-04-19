@@ -20,3 +20,6 @@
 
 Урок 7. Файлы и файловая система
 [Домашняя работа № 7](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_7)
+
+Урок 8. Сериализация
+[Домашняя работа № 8](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_8)
