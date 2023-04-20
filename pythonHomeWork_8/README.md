@@ -10,6 +10,7 @@
 * Для файлов сохраните его размер в байтах, а для директорий размер файлов в ней с учётом всех вложенных файлов и директорий.
 
 Реализация:
+[home_work_task_2](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_8/working_with_files_different_formats/home_work_task_2.py)
 
 3. Соберите из созданных на уроке и в рамках домашнего задания функций пакет  для работы с файлами разных форматов.
 

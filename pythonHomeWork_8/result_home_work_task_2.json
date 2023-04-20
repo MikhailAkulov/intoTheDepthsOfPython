@@ -1,0 +1,236 @@
+[
+    {
+        "name": "working_with_files_different_formats",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "dir",
+        "weight": 29119
+    },
+    {
+        "name": "README.md",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 1268
+    },
+    {
+        "name": "result_task_1.json",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 289
+    },
+    {
+        "name": "result_task_1.pickle",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 206
+    },
+    {
+        "name": "result_task_2.csv",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 38
+    },
+    {
+        "name": "result_task_2.json",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 114
+    },
+    {
+        "name": "result_task_2.pickle",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 80
+    },
+    {
+        "name": "result_task_4.json",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 412
+    },
+    {
+        "name": "result_task_4.pickle",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 192
+    },
+    {
+        "name": "result_task_6.csv",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 157
+    },
+    {
+        "name": "seminar_7_task_3.txt",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 204
+    },
+    {
+        "name": "test_module.py",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 1053
+    },
+    {
+        "name": "__init__.py",
+        "parent_directory": "pythonHomeWork_8",
+        "type": "file",
+        "weight": 0
+    },
+    {
+        "name": "test_dir_1",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "dir",
+        "weight": 0
+    },
+    {
+        "name": "test_dir_3",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "dir",
+        "weight": 0
+    },
+    {
+        "name": "__pycache__",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "dir",
+        "weight": 17612
+    },
+    {
+        "name": "home_work_task_2.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 2884
+    },
+    {
+        "name": "seminar_task_1.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 1160
+    },
+    {
+        "name": "seminar_task_2.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 2275
+    },
+    {
+        "name": "seminar_task_3.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 820
+    },
+    {
+        "name": "seminar_task_4.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 1532
+    },
+    {
+        "name": "seminar_task_5.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 834
+    },
+    {
+        "name": "seminar_task_6.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 1128
+    },
+    {
+        "name": "seminar_task_7.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 716
+    },
+    {
+        "name": "__init__.py",
+        "parent_directory": "working_with_files_different_formats",
+        "type": "file",
+        "weight": 158
+    },
+    {
+        "name": "test_dir_1_1",
+        "parent_directory": "test_dir_1",
+        "type": "dir",
+        "weight": 0
+    },
+    {
+        "name": "test_file_1",
+        "parent_directory": "test_dir_1_1",
+        "type": "file",
+        "weight": 0
+    },
+    {
+        "name": "test_file_3",
+        "parent_directory": "test_dir_3",
+        "type": "file",
+        "weight": 0
+    },
+    {
+        "name": "home_work_task_2.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 4205
+    },
+    {
+        "name": "seminar_task_1.cpython-310.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 802
+    },
+    {
+        "name": "seminar_task_2.cpython-310.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 1419
+    },
+    {
+        "name": "seminar_task_2.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 2653
+    },
+    {
+        "name": "seminar_task_3.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 1769
+    },
+    {
+        "name": "seminar_task_4.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 1681
+    },
+    {
+        "name": "seminar_task_5.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 1635
+    },
+    {
+        "name": "seminar_task_6.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 1579
+    },
+    {
+        "name": "seminar_task_7.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 1167
+    },
+    {
+        "name": "__init__.cpython-310.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 285
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent_directory": "__pycache__",
+        "type": "file",
+        "weight": 417
+    }
+]

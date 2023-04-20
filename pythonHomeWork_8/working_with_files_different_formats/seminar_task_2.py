@@ -41,10 +41,8 @@ def add_users(json_file: str) -> None:
         all_dict.setdefault(access_level, {})[user_id] = name
 
     with open(json_file, 'w', encoding='utf-8') as result_file:
-        # json.dump(all_dict, result_file, ensure_ascii=False, indent=2, sort_keys=True)
-        json.dump(all_dict, result_file, ensure_ascii=False, indent=2)
+        json.dump(all_dict, result_file, ensure_ascii=False, indent=2, sort_keys=True)
 
 
 # if __name__ == '__main__':
 #     add_users('result_task_2.json')
-
