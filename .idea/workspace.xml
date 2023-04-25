@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3cb4bf9-a775-4ca7-947b-e0fe1008757e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/intoTheDepthsOfPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/intoTheDepthsOfPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/result_task_2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/test_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/test_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,46 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Akuloff/Desktop/Geek_Brains/2_Specialization_Python/Seminars/Seminars_code&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Akuloff/Desktop/Geek_Brains/2_Specialization_Python/Seminars/Seminars_code"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Akulo\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_9" />
+      <recent name="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_9\games" />
       <recent name="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_8\working_with_files_different_formats" />
       <recent name="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_7\working_with_files" />
       <recent name="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_7" />
-      <recent name="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_7\work_with_files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_module (2)">
-    <configuration name="group_renaming_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="intoTheDepthsOfPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_7\work_with_files\group_renaming_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.home_work_task_2 (1)">
     <configuration name="group_renaming_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="intoTheDepthsOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seminar_task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home_work_task_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="intoTheDepthsOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_8/working_with_files_different_formats/seminar_task_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_9/home_work_task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_module (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home_work_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="intoTheDepthsOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_9/games" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_7/test_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_9/games/home_work_task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_module (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home_work_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="intoTheDepthsOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_8/test_module.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_9\games\home_work_task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="seminar_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="intoTheDepthsOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +142,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_9/games" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Akuloff\Desktop\Geek_Brains\2_Specialization_Python\intoTheDepthsOfPython\pythonHomeWork_7\test_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_9/games/seminar_task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seminar_task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intoTheDepthsOfPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_9/games" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_9/games/seminar_task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_module (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intoTheDepthsOfPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonHomeWork_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonHomeWork_9/test_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_module (2)" />
-        <item itemvalue="Python.seminar_task_7" />
-        <item itemvalue="Python.test_module (1)" />
-        <item itemvalue="Python.test_module" />
-        <item itemvalue="Python.group_renaming_files" />
+        <item itemvalue="Python.home_work_task_2 (1)" />
+        <item itemvalue="Python.home_work_task_2" />
+        <item itemvalue="Python.home_work_task_2 (1)" />
+        <item itemvalue="Python.test_module (3)" />
+        <item itemvalue="Python.seminar_task_4" />
       </list>
     </recent_temporary>
   </component>
