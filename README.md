@@ -26,3 +26,6 @@
 
 Урок 9. Декораторы
 [Домашняя работа № 9](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_9)
+
+Урок 10. ООП. Начало
+[Домашняя работа № 10](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_10)
