@@ -9,8 +9,9 @@
 * Внутри класса создайте экземпляр на основе переданного типа и верните его из класса-фабрики.
 
 Реализация:
-
+[Animals_factory](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_10/animals.py)
 
 3. Возьмите 1-3 любые задачи из прошлых семинаров (например сериализация данных), которые вы уже решали. Превратите функции в методы класса, а параметры в свойства. Задачи должны решаться через вызов методов экземпляра. 
 
 Реализация:
+[Task_3](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_10/task_3.py)
