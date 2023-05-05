@@ -11,4 +11,4 @@
 * Также экземпляр должен сообщать средний балл по тестам для каждого предмета и по оценкам всех предметов вместе взятых.
 
 Реализация:
-[University](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_11/university.py)
+[University](https://github.com/MikhailAkulov/intoTheDepthsOfPython/blob/main/pythonHomeWork_12/university.py)
