@@ -32,3 +32,6 @@
 
 Урок 11. ООП. Особенности Python
 [Домашняя работа № 11](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_11)
+
+Урок 12. ООП. Финал
+[Домашняя работа № 12](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_12)
