@@ -35,3 +35,6 @@
 
 Урок 12. ООП. Финал
 [Домашняя работа № 12](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_12)
+
+Урок 13. Исключения
+[Домашняя работа № 13](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_13)
