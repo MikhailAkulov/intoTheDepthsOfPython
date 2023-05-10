@@ -38,3 +38,6 @@
 
 Урок 13. Исключения
 [Домашняя работа № 13](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_13)
+
+Урок 14. Основы тестирования
+[Домашняя работа № 14](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_14)
