@@ -41,3 +41,6 @@
 
 Урок 14. Основы тестирования
 [Домашняя работа № 14](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_14)
+
+Урок 15. Обзор стандартной библиотеки Python
+[Домашняя работа № 15](https://github.com/MikhailAkulov/intoTheDepthsOfPython/tree/main/pythonHomeWork_15)
